@@ -1,1 +1,1 @@
-
+This code uses a backtracking algorithm to solve the Sudoku puzzle. It starts with the first empty cell and tries to fill it with a number from 1 to 9. If the number is valid, the algorithm moves to the next empty cell. If the number is not valid, it backtracks and tries the next number. The Solve() function recursively calls itself until it finds
